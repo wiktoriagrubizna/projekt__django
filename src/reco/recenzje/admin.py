@@ -11,3 +11,4 @@ admin.site.register(Ocena)
 
 from .models import Film
 admin.site.register(Film)
+
